@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/C5616AQGc-RJlutIN3w/profile-displaybackgroundimage-shrink_350_1400/0/1668526184656?e=1694649600&v=beta&t=q3VJLcJuRfFCiLskEDnnD8oBZk09SNkz9dryC1fHJnk">
 Hi there 👋
-
+<br />
 [![](https://img.shields.io/badge/Gmail-ivangolosinda2@gmail.com-red)](mailto:ivangolosinda2@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ivan%20Cepe%20Golosinda-blue)](https://www.linkedin.com/in/ivan-cepe-4508a724a/)
  <img src="https://komarev.com/ghpvc/?username=your-github-ivancepe&style=flat-square" alt="Ivan Cepe" /> 
 
