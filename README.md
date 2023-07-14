@@ -10,8 +10,6 @@ Hi there 👋
 - 🎯 My long-term goal is to become a Senior Front-End Web Developer
 - 😎 I enjoy the challenge of software development as well as seeing the results of my efforts. I'm eager to learn new technologies to broaden my knowledge.
 
-### Connect with me:
-
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
