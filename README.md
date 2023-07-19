@@ -1,4 +1,4 @@
-<img src="https://ivancepegolosinda.netlify.app/">
+[<img src="https://media.licdn.com/dms/image/D5616AQF70iEyrFmWKw/profile-displaybackgroundimage-shrink_350_1400/0/1689787450087?e=1695254400&v=beta&t=dwV4OLxNVYi3VxchhanoOlwha5-2uFEMSOKeEyAYJV4">](https://ivancepegolosinda.netlify.app/)
 Hi there 👋
 
 [![](https://img.shields.io/badge/Gmail-ivangolosinda2@gmail.com-red)](mailto:ivangolosinda2@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ivan%20Cepe%20Golosinda-blue)](https://www.linkedin.com/in/ivan-cepe-4508a724a/)
